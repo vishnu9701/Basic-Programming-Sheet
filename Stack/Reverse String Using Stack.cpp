@@ -1,21 +1,19 @@
 #include <iostream>
-#include<stack>
-using namespace std;
+#include <stack>
+using namespace std; 
 
 int main()
 {
-    string name="Vishnu";
-    int n=name.length();
-    stack<char> s;
+    stack<char> st;
+    string s = "Vishnu";
 
-    for(int i=0;i<n;i++)
+    for (int i = 0; i < s.length(); i++)
     {
-        s.push(name[i]);
+        st.push(s[i]);
     }
-    for(int i=0;i<n;i++)
+    for(int j=0;j<s.length();j++)
     {
-        name[i]=s.top();
-        s.pop();
+        cout<<st.top();
+        st.pop();
     }
-    cout<<name;
 }
