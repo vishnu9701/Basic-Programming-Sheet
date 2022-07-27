@@ -69,5 +69,25 @@ Basic Programming Questions for Campus Placement Companies like Tcs ,Wirpo , Acc
     <li><span style='font-family:"Times New Roman",serif;font-size:13.5pt;color:black;'><a href="https://github.com/vishnu9701/Basic-Programming-Sheet/blob/main/String/Sum%20of%20the%20numbers%20in%20a%20String.cpp" title="Sum of the numbers in a String.cpp"><span style="color:blue;">Sum of the numbers in a String</span></a></span></li>
 </ul>
 
-<h1>Problems on Serching<h1>
+
+
+
+<h1>Problems on Seaching<h1>
+
+
+
 <h1>Problmes on Sorting<h1>
+
+
+
+<h1>Problmes on Recursion<h1>
+
+
+<h1> Problmes on Linked List<h1>
+
+
+<h1>Problmes on Stack<h1>
+
+
+
+<h1>Problmes on Queue<h1>
