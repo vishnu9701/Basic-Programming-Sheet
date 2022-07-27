@@ -26,7 +26,11 @@ Basic Programming Questions for Campus Placement Companies like Tcs ,Wirpo , Acc
     <li style='margin-top:3.0pt;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;color:#24292F;background:white;'><span style='font-size:16px;font-family:"Segoe UI",sans-serif;'><a href="https://github.com/vishnu9701/Basic-Programming-Sheet/blob/main/Basic%20Questions%20on%20Number/Program%20to%20find%20roots%20of%20a%20Quadratic%20Equation.cpp" title="Program to find roots of a Quadratic Equation.cpp"><span style="color:blue;">Program to find roots of a Quadratic Equation</span></a></span></li>
 </ul>
 
+
+
 <h1>Problmes on Arrays</h1>
+
+
 
 <ul style="margin-bottom:0cm;" type="disc">
     <li style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;color:#24292F;background:white;'><span style='font-size:16px;font-family:"Segoe UI",sans-serif;'><a href="https://github.com/vishnu9701/Basic-Programming-Sheet/blob/main/Array/Average%20or%20Mean%20of%20all%20elements%20in%20an%20array.cpp" title="Average or Mean of all elements in an array.cpp"><span style="color:blue;">Average or Mean of all elements in an array</span></a></span></li>
@@ -43,7 +47,11 @@ Basic Programming Questions for Campus Placement Companies like Tcs ,Wirpo , Acc
     <li style='margin-top:3.0pt;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;color:#24292F;background:white;'><span style='font-size:16px;font-family:"Segoe UI",sans-serif;'><a href="https://github.com/vishnu9701/Basic-Programming-Sheet/blob/main/Array/Second%20Smallest%20and%20Second%20Largest%20element%20in%20an%20array.cpp" title="Second Smallest and Second Largest element in an array.cpp"><span style="color:blue;">Second Smallest and Second Largest element in an array</span></a></span></li>
 </ul>
 
-<h1> Problmes on Strin</h1>
+
+
+<h1> Problmes on String</h1>
+
+
 <ul style="list-style-type: disc;">
     <li><span style='font-family:"Times New Roman",serif;font-size:13.5pt;color:black;'><a href="https://github.com/vishnu9701/Basic-Programming-Sheet/blob/main/String/Calculate%20frequency%20of%20characters%20in%20a%20string.cpp" title="Calculate frequency of characters in a string.cpp"><span style="color:blue;">Calculate frequency of characters in a string</span></a></span></li>
     <li><span style='font-family:"Times New Roman",serif;font-size:13.5pt;color:black;'><a href="https://github.com/vishnu9701/Basic-Programming-Sheet/commit/4101b3ec78890b65f760bd379bacef300f869ec5" title="Create Calculate frequency of characters in a string.cpp"><span style="color:blue;">Create Calculate frequency of characters in a string</span></a></span></li>
