@@ -1,5 +1,5 @@
 # Basic-Programming-Sheet
-Basic Programming Questions for Campus Placement Companies like Tcs ,Wirpo , Accenture ,IBM etc.
+Basic Programming Questions for Campus Placement Companies like Tcs ,Wipro , Accenture ,IBM etc.
 <h3>Author: Vishnu Pandey</h3>
 <h1>Problmes of Basics</h1>
 
