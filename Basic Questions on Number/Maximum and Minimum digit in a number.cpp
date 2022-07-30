@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int n = 20826;
-    int min = 0, max = 0;
+    int min = 9, max = 0;
     while (n > 0)
     {
         int rd = n % 10;
