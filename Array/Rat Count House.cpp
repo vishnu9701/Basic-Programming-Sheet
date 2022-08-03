@@ -50,6 +50,5 @@ int main()
     int unit = 2;
     int n = 8;
     int arr[] = {2, 8, 3, 5, 7, 1, 2};
-
     cout << ans(r, unit, arr, n);
 }
